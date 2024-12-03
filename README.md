@@ -6,9 +6,16 @@ A **New Year Nekath Reminder Mobile App** for 2024, designed to help users stay 
 
 ## ✨ Features
 
-- 🗓️ **Nekath Notifications**: Get reminders for important new year nekath times.
-- 📅 **Nekath Countdown**: Countdownt time for each Itemes.
-- 🔮 **2025 Update Coming Soon!**
+- 🗓️ **Nekath Notifications**: Get reminders for important new year nekath times.  
+- 📅 **Nekath Countdown**: Countdown to each auspicious time.  
+- 🔮 **2025 Update Coming Soon!**  
+
+---
+
+## 📱 Screenshots
+
+<img src="Screenshot.jpg" alt="New Year Mobile App Screenshot" width="200">  
+*A sneak peek of the app interface.*
 
 ---
 
