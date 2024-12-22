@@ -19,6 +19,12 @@ A **New Year Nekath Reminder Mobile App** for 2024, designed to help users stay 
 
 ---
 
+## 📂 Project Details
+
+- **Introductory Video**: [Watch Here](https://drive.google.com/file/d/1HseoKhtBZa3wunTQuGqdW3TCyS4FJ2T8/view?usp=sharing)
+
+---
+
 ## 🛠️ Technologies Used
 
 - **Framework**: Android (Java)  
